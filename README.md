@@ -10,3 +10,12 @@
 abdulmajid333/abdulmajid333 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <h1>my name is abdul majid</h1>
+  </body>
+</html>
